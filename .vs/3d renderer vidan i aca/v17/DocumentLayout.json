@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{902AF12E-A76C-4632-AF59-EF41F7A52069}|3d renderer vidan i aca\\3d renderer vidan i aca.vcxproj|C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{902AF12E-A76C-4632-AF59-EF41F7A52069}|3d renderer vidan i aca\\3d renderer vidan i aca.vcxproj|solutionrelative:3d renderer vidan i aca\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902AF12E-A76C-4632-AF59-EF41F7A52069}|3d renderer vidan i aca\\3d renderer vidan i aca.vcxproj|C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\vcpkg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{902AF12E-A76C-4632-AF59-EF41F7A52069}|3d renderer vidan i aca\\3d renderer vidan i aca.vcxproj|solutionrelative:3d renderer vidan i aca\\vcpkg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vcpkg.json",
+              "DocumentMoniker": "C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\vcpkg.json",
+              "RelativeDocumentMoniker": "3d renderer vidan i aca\\vcpkg.json",
+              "ToolTip": "C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\vcpkg.json",
+              "RelativeToolTip": "3d renderer vidan i aca\\vcpkg.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T14:18:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\Source.cpp",
+              "RelativeDocumentMoniker": "3d renderer vidan i aca\\Source.cpp",
+              "ToolTip": "C:\\Users\\cveti\\source\\repos\\3d renderer vidan i aca\\3d renderer vidan i aca\\Source.cpp",
+              "RelativeToolTip": "3d renderer vidan i aca\\Source.cpp",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAmwGwBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T14:07:17.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

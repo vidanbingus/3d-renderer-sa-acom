@@ -1,0 +1,2 @@
+C:/Users/cveti/source/repos/3d renderer vidan i aca/3d renderer vidan i aca/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/cveti/source/repos/3d renderer vidan i aca/3d renderer vidan i aca/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

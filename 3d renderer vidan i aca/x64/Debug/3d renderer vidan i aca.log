@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(313,20): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(322,29): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(331,41): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(448,59): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(448,50): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(448,41): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\cveti\source\repos\3d renderer vidan i aca\3d renderer vidan i aca\Source.cpp(449,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  3d renderer vidan i aca.vcxproj -> C:\Users\cveti\source\repos\3d renderer vidan i aca\x64\Debug\3d renderer vidan i aca.exe
